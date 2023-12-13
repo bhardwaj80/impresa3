@@ -38,7 +38,7 @@ import Landingpage5 from './pages/Landingpage5';
 function App() {
   
   return (
-    <Router basename="/">
+    <HashRouter basename="/">
       <div className="page-wraper">
         <Routes >
           <Route path="/under-construct"  element={<Construction />} />
@@ -74,7 +74,7 @@ function App() {
         </Routes>
         <ScrollToTop />
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
