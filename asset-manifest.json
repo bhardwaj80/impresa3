@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e04fde2a.css",
-    "main.js": "/static/js/main.43db32a2.js",
-    "static/js/787.4fc0d3ef.chunk.js": "/static/js/787.4fc0d3ef.chunk.js",
+    "main.css": "/static/css/main.f767d9c8.css",
+    "main.js": "/static/js/main.a215722f.js",
+    "static/js/787.a166cb5e.chunk.js": "/static/js/787.a166cb5e.chunk.js",
     "static/media/la-brands-400.svg": "/static/media/la-brands-400.331115337bc9be66667a.svg",
     "static/media/la-solid-900.svg": "/static/media/la-solid-900.0f874d69730f8631d632.svg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.ca408b63c26d83dbd1e4.svg",
@@ -103,12 +103,12 @@
     "static/media/flaticon.woff?": "/static/media/flaticon.201c6eb7880f2c1b22b0.woff",
     "static/media/flaticon.woff2?": "/static/media/flaticon.41b6df63a66d2b45b7eb.woff2",
     "index.html": "/index.html",
-    "main.e04fde2a.css.map": "/static/css/main.e04fde2a.css.map",
-    "main.43db32a2.js.map": "/static/js/main.43db32a2.js.map",
-    "787.4fc0d3ef.chunk.js.map": "/static/js/787.4fc0d3ef.chunk.js.map"
+    "main.f767d9c8.css.map": "/static/css/main.f767d9c8.css.map",
+    "main.a215722f.js.map": "/static/js/main.a215722f.js.map",
+    "787.a166cb5e.chunk.js.map": "/static/js/787.a166cb5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e04fde2a.css",
-    "static/js/main.43db32a2.js"
+    "static/css/main.f767d9c8.css",
+    "static/js/main.a215722f.js"
   ]
 }
